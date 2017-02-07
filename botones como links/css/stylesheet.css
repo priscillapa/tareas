@@ -1,0 +1,98 @@
+button {
+
+	 margin: 5px;
+	 background-color: white;
+	 color: black;
+	 padding: 10px;
+	 font-size: 10px;
+	 border: 1px solid black;
+	 margin-left: 20px;
+	 width: 90px;
+	 text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+
+.conteiner {
+
+	 width: 1090px;
+     margin: 0 auto;
+     margin-top: 50px;
+     margin-bottom: 50px;
+}
+
+h1 {
+
+	text-align: center;
+	margin-bottom: -25px;
+	font-size: 45px;
+	font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 25px;
+	margin-left: 190px;
+}
+
+.columnas {
+
+	margin-bottom: 100px;
+	margin-top: 100px;
+
+}
+
+header {
+
+	margin-bottom: 40px;
+	margin-top: 150px;
+}
+
+
+.foto1 {
+
+	width: 250px;
+	margin: 10px;
+
+
+
+
+}
+
+.foto2 {
+
+	width: 250px;
+	margin: 10px;
+
+
+}
+
+
+.foto3 {
+
+	width: 250px;
+	margin: 10px;
+
+
+}
+
+
+.foto4 {
+
+	width: 250px;
+	margin: 10px;
+
+}
+
+.columnas div {
+
+	float: left;
+}
+
